@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @FarisHdyt
-- 👀 I’m interested in You<3
 - 🌱 I’m currently learning Python
 - 📫 How to reach me (WhatsApp) 081281018036
 
